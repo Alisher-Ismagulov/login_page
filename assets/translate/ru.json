@@ -1,0 +1,11 @@
+{
+  "register": "регистрация",
+  "inputusername": "имя/ email",
+  "inputphone": "номер телефона",
+  "inputpassword": "пароль",
+  "buttonSubmit": "зарегистрироваться",
+  "haveacc": "У вас есть есть аккаунт?",
+  "buttonSign": "войти",
+  "welcome": "добро пожаловать!",
+  "noAcc": "у вас нет аккаунта?"
+}

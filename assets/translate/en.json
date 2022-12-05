@@ -1,0 +1,11 @@
+{
+  "register": "registration",
+  "inputusername": "username / email",
+  "inputphone": "phone number",
+  "inputpassword": "password",
+  "buttonSubmit": "sign Up",
+  "haveacc": "already have an account?",
+  "buttonSign": "sing in",
+  "welcome": "welcome!",
+  "noAcc": "Don't have an account?"
+}
